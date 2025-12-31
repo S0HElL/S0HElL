@@ -1,5 +1,5 @@
 ## Hi there 👋
-I build apps
+I build apps.
 <!--
 **S0HElL/S0HElL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

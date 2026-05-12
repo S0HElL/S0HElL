@@ -2,6 +2,8 @@
 I build apps.
 <p></p>
 I'm currently inactive due to the digital blackout in Iran. (28 feb 2026 - ongoing)
+
+![Snake animation](https://raw.githubusercontent.com/s0hell/s0hell/output/github-contribution-grid-snake-dark.svg)
 <!--
 **S0HElL/S0HElL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Snake animation](https://raw.githubusercontent.com/s0hell/s0hell/output/github-contribution-grid-snake-dark.svg)
+

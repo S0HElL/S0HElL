@@ -1,7 +1,7 @@
 ## Hi there 👋
 I build apps.
 <p></p>
-I'm currently inactive due to the digital blackout in Iran. (28 feb 2026 - ongoing)
+I'm currently inactive.
 
 ![Snake animation](https://raw.githubusercontent.com/s0hell/s0hell/output/github-contribution-grid-snake-dark.svg)
 <!--
